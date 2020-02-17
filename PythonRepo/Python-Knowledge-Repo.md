@@ -1,3 +1,7 @@
+# NLP Resources
+## awesome-nlp
+A curated list of resources dedicated to Natural Language Processing
+
 # Python Basic Task Libraries
 ## Python File Split Library
 A python module that can split files of any size into multiple chunks, with optimum use of memory and without compromising on performance. 
@@ -36,6 +40,10 @@ Collection of Urdu datasets for POS, NER and NLP tasks provided by [Irfan](https
 - Small Urdu Corpus
 
 ### Urdu Model for Spacy
-### NLP Tutorials for Urdu
+Urdu model for SpaCy is available now. You can use it to build NLP apps easily. Install the package in your working environment.
 
+`pip install ur_model-0.0.0.tar.gz`
+
+### NLP Tutorials for Urdu
+[NLP-Dataset](https://github.com/niderhoff/nlp-datasets)
 
