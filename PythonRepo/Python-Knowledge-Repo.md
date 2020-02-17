@@ -25,6 +25,17 @@ Urduhack is a NLP library for urdu language. It comes with a lot of battery incl
 - Tokenization
 - Data pre-processing
 
+## Urdu Datasets for NLP [Dataset by Irfan]
+Collection of Urdu datasets for POS, NER and NLP tasks provided by [Irfan](https://mirfan899.github.io/Urdu/)
 
+- POS Dataset
+- NER Dataset
+- UNER Dataset
+- MK-PUCIT Dataset
+- Sentiment Analysis Dataset
+- Small Urdu Corpus
+
+### Urdu Model for Spacy
+### NLP Tutorials for Urdu
 
 
