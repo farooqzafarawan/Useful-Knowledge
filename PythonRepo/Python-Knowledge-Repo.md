@@ -18,6 +18,12 @@ fs = FileSplit(file='path/to/file', splitsize=500000000, output_dir='/path/to/ou
 fs.split
 ```
 
+# Python Flask Resources
+##Reddit Job Search
+Junter is a simple to use, free and open source web application to find job opportunities on Reddit.
+Junter uses Reddit API through PRAW and Flask on the backend, standard Jinja 2 is used for rendering
+[Reddit Job Search](https://github.com/anis-coding/Reddit-Job-Search)
+
 # Python Urdu Libraries
 Some noteable librariesL
 - urduhack
