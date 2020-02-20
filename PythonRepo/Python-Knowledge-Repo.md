@@ -11,6 +11,13 @@ Dialogue chat bot code with explanation
 
 - [Question-Answer Dataset](http://www.cs.cmu.edu/~ark/QA-data/)
 
+### Open source Training data
+- The WikiQA Corpus : a publicly available set of question and sentence pairs. It uses Bing query logs and links to Wikipedia pages.
+- Yahoo Language Data : Curated question and answer datasets from Yahoo Answers
+- Ubuntu Dialogue Corpus : Around 1 million two person conversations extracted from chat logs used to receive technical support
+- Twitter Support : over 3 million tweets and replies from the biggest brands on Twitter
+- CoNLL 2003 dataset : for training named entity recognition models
+
 # Python Basic Task Libraries
 ## Python File Split Library
 A python module that can split files of any size into multiple chunks, with optimum use of memory and without compromising on performance. 
