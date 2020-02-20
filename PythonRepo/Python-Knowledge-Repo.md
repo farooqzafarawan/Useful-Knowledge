@@ -2,7 +2,11 @@
 ## awesome-nlp
 A curated list of resources dedicated to Natural Language Processing
 
-## Chatbot Datasets for Machine Learning
+## Chatbot
+Dialogue chat bot code with explanation 
+[Chatbots aren't as difficult to make as You Think](https://mlwhiz.com/blog/2019/04/15/chatbot/)
+
+### Chatbot Datasets for Machine Learning
 - [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning)
 
 - [Question-Answer Dataset](http://www.cs.cmu.edu/~ark/QA-data/)
