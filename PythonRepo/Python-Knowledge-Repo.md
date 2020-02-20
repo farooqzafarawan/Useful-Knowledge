@@ -2,6 +2,11 @@
 ## awesome-nlp
 A curated list of resources dedicated to Natural Language Processing
 
+## Chatbot Datasets for Machine Learning
+- [15 Best Chatbot Datasets for Machine Learning](https://lionbridge.ai/datasets/15-best-chatbot-datasets-for-machine-learning)
+
+- [Question-Answer Dataset](Question-Answer Dataset)
+
 # Python Basic Task Libraries
 ## Python File Split Library
 A python module that can split files of any size into multiple chunks, with optimum use of memory and without compromising on performance. 
